@@ -1,0 +1,14 @@
+/home/mariyam/Документы/Examples/Example001_HelloConsole/bin/Debug/net8.0/Example001_HelloConsole
+/home/mariyam/Документы/Examples/Example001_HelloConsole/bin/Debug/net8.0/Example001_HelloConsole.deps.json
+/home/mariyam/Документы/Examples/Example001_HelloConsole/bin/Debug/net8.0/Example001_HelloConsole.runtimeconfig.json
+/home/mariyam/Документы/Examples/Example001_HelloConsole/bin/Debug/net8.0/Example001_HelloConsole.dll
+/home/mariyam/Документы/Examples/Example001_HelloConsole/bin/Debug/net8.0/Example001_HelloConsole.pdb
+/home/mariyam/Документы/Examples/Example001_HelloConsole/obj/Debug/net8.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/mariyam/Документы/Examples/Example001_HelloConsole/obj/Debug/net8.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/home/mariyam/Документы/Examples/Example001_HelloConsole/obj/Debug/net8.0/Example001_HelloConsole.AssemblyInfo.cs
+/home/mariyam/Документы/Examples/Example001_HelloConsole/obj/Debug/net8.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/home/mariyam/Документы/Examples/Example001_HelloConsole/obj/Debug/net8.0/Example001_HelloConsole.dll
+/home/mariyam/Документы/Examples/Example001_HelloConsole/obj/Debug/net8.0/refint/Example001_HelloConsole.dll
+/home/mariyam/Документы/Examples/Example001_HelloConsole/obj/Debug/net8.0/Example001_HelloConsole.pdb
+/home/mariyam/Документы/Examples/Example001_HelloConsole/obj/Debug/net8.0/Example001_HelloConsole.genruntimeconfig.cache
+/home/mariyam/Документы/Examples/Example001_HelloConsole/obj/Debug/net8.0/ref/Example001_HelloConsole.dll
